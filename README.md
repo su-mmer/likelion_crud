@@ -1,3 +1,7 @@
+# 출처 : https://github.com/justdjango/django-react-ecommerce
+
+* * *
+
 # Django React Ecommerce
 
 [![alt text](https://github.com/justdjango/django-react-ecommerce/blob/master/thumbnail.png "Logo")](https://youtu.be/RG_Y7lIDXPM)
